@@ -2,7 +2,7 @@ body{
 	background: rgb(250,199,204);
 background: linear-gradient(90deg, rgba(250,199,204,1) 0%, rgba(210,169,173,1) 49%, rgba(145,119,121,1) 100%);
 	text-align: center;
-	font-size: 50px;
+	font-size: 100px;
 	font-family: Omerlian;
 	text-decoration-color: black;
 }
